@@ -198,8 +198,8 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Q1. Flat sours usually occur in:**
 **Answer: (c) Canned cereal food products**
 
-**Q2. Beef carcass showing granulomatous lesions in lymph nodes and organs consisting of greenish-yellow thick creamy shiny pus with "sulphur granules" is:**
-**Answer: (b) Actinomycosis**
+**Q2. Beef carcass showing granulomatous lesions in lymph nodes and organs consisting of greenish-yellow thick creamy shiny pus with "sulphur granules":**
+**Answer: 📖 (b) Actinomycosis** — Course text states: "Actinobacillosis...granulomatous lesions in the lymph nodes and organs consist of greenish-yellow thick creamy pus with 'sulphur granules'" (p.1 of Abnormal Conditions). **Note:** The question says "Beef carcass" which could indicate Actinomycosis (Actinomyces bovis causes lumpy jaw in cattle), but the sulphur granules description matches Actinobacillosis. Actinomycosis also shows sulphur granules but typically in bone (mandible/maxilla). Choose based on your professor's teaching.
 
 **Q3. Lack of bleeding in poultry is indicated by:**
 **Answer: (d) All of the above** (engorged small veins of the neck, bluish red/green colored neck, hemorrhagic spots)
@@ -324,14 +324,14 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Q43. A proteinase responsible for proteolytic changes in post-mortem muscle:**
 **Answer: (b) Calpains**
 
-**Q44. Anthracosis (black pigmentation in lungs and lymph nodes) is caused by:**
-**Answer: (c) Accumulation of carbon particles**
+**Q43. Anthracosis (black pigmentation in lungs and lymph nodes) is caused by:**
+**Answer: 📖 (c) Accumulation of carbon particles** — Course text (Abnormal Conditions): "Anthracosis, a black pigmentation that can be seen in lungs and corresponding lymph nodes of animals raised in urban areas, is caused by accumulation of carbon particles."
 
 **Q45. The proteins of muscle responsible for binding ~75% of water in muscle tissue:**
 **Answer: (a) Myofibrillar**
 
-**Q46. Characteristics of alkaline rigor:**
-**Answer: (c) Slowly onset of rigor**
+**Q14. Characteristics of alkaline rigor:**
+**Answer: 📖 (a) Rapid onset of rigor** ⚠️ — Course text (Conversion of Muscle to Meat) states: "If all the glycogen is depleted before slaughter the muscle will not acidify at all and rigor will occur very rapidly in this relatively alkaline state. This is therefore known as alkaline rigor. Characteristic of alkaline rigor: 1 - Rapid onset of stiffening, 2 - Marked muscle shortening." So the answer is **(a) Rapid onset of rigor** with **marked muscle shortening**. The course lists "Rapid onset" as characteristic, NOT "slowly onset."
 
 **Q47. Hydroxyproline (tenderness indicator) measures the percentage of meat protein found in:**
 **Answer: (b) Collagen**
@@ -355,7 +355,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Answer: (b) Lung, trachea, heart, and esophagus**
 
 **Q54. Carbohydrates percentage in typical adult mammalian muscle after rigor mortis:**
-**Answer: (c) 2.5%** (actually approximately 1.2% after glycolysis; most of glycogen is converted to lactic acid)
+**Answer: 📖 (d) 1.2%** — Course text (Chemical Composition): "4-Carbohydrates (1.2%)" and "Most of glycogen converted by glycolysis into lactic acid." The value is 1.2%, NOT 2.5% or 19%.
 
 **Q55. In Libyan standard for meat, drip should not be more than:**
 **Answer: (c) 10%**
@@ -367,16 +367,16 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Answer: (d) All of the above** (acidification, rigor mortis, conditioning)
 
 **Q58. Shechita differs from Halal slaughter method in:**
-**Answer: (b) Porging** (also searching and salting)
+**Answer: 📖 (b) Porging** — Course text (bleeding): "Shechita differs from Halal in: Searching, Porging, and Salting." Porging is the removal of blood vessels and sinews. The primary difference highlighted is Porging.
 
 **Q59. The residual blood in muscles after slaughtering is about:**
-**Answer: (b) 40–60% of total blood volume** (nearly two thirds remain as residual blood in tissues)
+**Answer: 📖 About 3–5% of total blood volume remains in the muscles** — Course text (bleeding): "About (two thirds) 50–70% of the total blood volume is lost during bleeding. The remainder (residual blood about one third) is largely retained in the viscera. Only about 3–5% remains in the muscles." The question asks about "remainder (residual) blood in the muscles" which is ~3–5%. But "residual blood" (all remaining in tissues) is ~30–50% of total blood volume. Answers: (a) 3–5% of total blood volume (in muscles), (c) 30–50% (total residual in tissues). ⚠️ The question wording matters — if asking about muscles specifically: **(a) 3–5%**. If asking about total residual blood in tissues: **(c) 30–50%**.
 
 **Q60. WHC after slaughter is strongly determined by:**
 **Answer: (c) Both a and b** (rate and extent of pH fall, age and animal species)
 
 **Q61. Characteristics of alkaline rigor:**
-**Answer: (c) Slowly onset of rigor**
+**Answer: 📖 (a) Rapid onset of rigor** — Same as Q46 above. Course text states alkaline rigor characteristics are: 1) Rapid onset of stiffening, 2) Marked muscle shortening.
 
 **Q62. Atrophy is seen in:**
 **Answer: (d) Both a and b** (chronic wasting diseases and cull dairy cows)
