@@ -18,7 +18,7 @@ MAP is changing the atmosphere of a package by evacuating and back-flushing with
 A non-infectious, localized, bulbous lesion of the ball of the foot, commonly seen in domestic fowls. Thought to be due to foreign body or bruising. Abscesses may occur from secondary infection. Closely associated with plantar necrosis. Judgment: D (condemned).
 
 ### 4. Brine Staining
-Brine staining is caused by contamination of meat by either brine or calcium chloride solutions which may be used in freezing. It appears as dark, discolored patches on the surface of frozen meat.
+Brine staining is caused by contamination of meat by either brine or calcium chloride solutions which may be used in freezing. It appears as **dull or pale greenish discoloration** on the surface of frozen carcass; meat is bitter in taste. The contamination results from leakage or fault in articulation in the circulating system.
 
 ### 5. Hydrogen Swell
 A type of chemical spoilage of canned meat in which hydrogen gas is produced due to the reaction of the acid content of the food with the iron of the can. This causes one or both ends of the can to swell.
@@ -27,7 +27,7 @@ A type of chemical spoilage of canned meat in which hydrogen gas is produced due
 A parasite (Clinostomum sp.) found in fish, appearing as yellowish grub-like cysts in the flesh and organs of freshwater fish. It is a fish parasite of public health importance.
 
 ### 7. HACCP (Hazard Analysis Critical Control Point)
-A systematic preventive approach to food safety that identifies physical, chemical, and biological hazards in production processes that can cause the finished product to be unsafe, and designs measurements to reduce these risks to a safe level. Developed by Pillsbury and NASA in the 1960s. It consists of 7 principles: (1) Hazard analysis, (2) Critical Control Points, (3) Critical limits, (4) Monitoring procedures, (5) Corrective actions, (6) Verification procedures, (7) Record-keeping and documentation procedures.
+A systematic preventive approach to food safety that identifies physical, chemical, and biological hazards in production processes that can cause the finished product to be unsafe, and designs measurements to reduce these risks to a safe level. Developed by Pillsbury Company in **1959** to assure safe food for NASA astronauts during space travel. It consists of 7 principles: (1) Hazard analysis, (2) Critical Control Points, (3) Critical limits, (4) Monitoring procedures, (5) Corrective actions, (6) Verification procedures, (7) Record-keeping and documentation procedures.
 
 ### 8. CCP (Critical Control Point)
 A step in the process at which control can be applied and is essential to prevent or eliminate a food safety hazard or reduce it to an acceptable level. CCP is a point where loss of control results in an unacceptable health risk.
@@ -123,7 +123,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 **Q32.** The main factors affecting growth of microorganisms in food include: **pH, temperature, moisture, oxidation-reduction potential, and available nutrients**.
 
-**Q33.** Types of preservation treatments by irradiation include: **radapperization (>5.0 kGy), radurization (2.5–10 kGy), and radicidation (3–10 kGy)**.
+**Q33.** Types of preservation treatments by irradiation include: **radappertization (45–50 kGy)** — commercial sterilization; **radurization (0.5–10 kGy)** — reduces spoilage microorganisms; **radicidation (3–10 kGy)** — eliminates non-spore-forming and non-viral pathogens.
 
 **Q34.** Freshness of fish is determined on the basis of **organoleptic (sensory) assessment** only; in doubtful cases chemical and bacteriological analysis are undertaken.
 
@@ -155,13 +155,13 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 **Q48.** Post-mortem acidification of muscles leads muscle to be **paler and more opaque and its ability to bind water decreases**.
 
-**Q49.** A level of TVB-N/100g of muscle taken as the limit of acceptability is **30 mg/100g**. Its level increases with time of storage at ambient temperature.
+**Q49.** A level of TVB-N/100g of muscle taken as the limit of acceptability is **35–40 mg/100g**. Its level increases with time of storage at ambient temperature.
 
 **Q50.** Main reasons of fish spoilage are **bacterial action, autolysis (enzymatic), and oxidation**.
 
 **Q51.** Smoked fish has been particularly incriminated as a vector for **Clostridium botulinum type E** while **Staphylococcus aureus** can grow in salted fish stored for long periods at room temperature.
 
-**Q52.** The last portion of the large intestine and rectum are hemorrhagic showing "tiger stripping" of longitudinal folds caused by **malignant catarrhal fever virus (or in some references: intestinal form of FMD)**.
+**Q52.** The last portion of the large intestine and rectum are hemorrhagic showing "tiger stripping" of longitudinal folds caused by **Rinderpest (Morbilli virus)**. Course text lists this finding explicitly under Rinderpest post-mortem findings. (MCF also shows "tiger striping" but in the distal colon as petechial hemorrhage, while the specific description of the last portion of large intestine and rectum with tiger stripping of longitudinal folds belongs to Rinderpest.)
 
 **Q53.** Lymph nodes that are absent in camel carcasses include **superficial cervical, axillary, pectoral, and popliteal** lymph nodes.
 
@@ -169,7 +169,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 **Q55.** Bovine husk disease is caused by **Dictyocaulus viviparus** (lungworm).
 
-**Q56.** Specified Bovine Material includes **brain, spinal cord, dorsal root ganglia, eyes, tonsils, intestines, and spleen** and should be removed after slaughtering in cattle over 6 months of age.
+**Q56.** Specified Bovine Material includes **skull, brain, spinal cord, eyes, tonsils, thymus, intestine, and spleen** of cattle over 6 months of age (and only thymus and intestine of calves under 6 months of age). Note: "dorsal root ganglia" is not listed in the course text; "skull" and "thymus" are.
 
 **Q57.** Tetrodotoxin is present in high concentration in **ovaries and liver** of Puffer fish.
 
@@ -199,7 +199,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Answer: (c) Canned cereal food products**
 
 **Q2. Beef carcass showing granulomatous lesions in lymph nodes and organs consisting of greenish-yellow thick creamy shiny pus with "sulphur granules":**
-**Answer: 📖 (b) Actinomycosis** — Course text states: "Actinobacillosis...granulomatous lesions in the lymph nodes and organs consist of greenish-yellow thick creamy pus with 'sulphur granules'" (p.1 of Abnormal Conditions). **Note:** The question says "Beef carcass" which could indicate Actinomycosis (Actinomyces bovis causes lumpy jaw in cattle), but the sulphur granules description matches Actinobacillosis. Actinomycosis also shows sulphur granules but typically in bone (mandible/maxilla). Choose based on your professor's teaching.
+**Answer: 📖 Actinobacillosis** — Course text (Abnormal Conditions): "Actinobacillosis...granulomatous lesions in the lymph nodes and organs consist of greenish-yellow thick creamy pus with 'sulphur granules'." Actinomycosis (Actinomyces bovis) causes honeycomb osteomyelitis of the mandible/maxilla (lumpy jaw) and granulomatous lesions in the lower esophagus/reticulum — NOT generalized lymph node/organ involvement with sulphur granules. The findings in this question specifically match **Actinobacillosis**.
 
 **Q3. Lack of bleeding in poultry is indicated by:**
 **Answer: (d) All of the above** (engorged small veins of the neck, bluish red/green colored neck, hemorrhagic spots)
@@ -259,7 +259,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Answer: (d) All of the above** (absence of cuticular spines, present in small intestine, surrounded by fibrous tissue)
 
 **Q22. Hypoderma bovis larvae migrate to the back of animal through:**
-**Answer: (d) All of the above** (esophageal area, thoracic and abdominal cavities, nasal cavity)
+**Answer: 📖 Thoracic and abdominal cavities only** — Course text: "**Hypoderma bovis** migrates into the **thoracic and abdominal cavities** towards the spinal canal before moving under the skin of the back. **Hypoderma lineatum** migrates to the **esophageal area**." The esophageal area is H. lineatum, NOT H. bovis. "Nasal cavity" is Oestrus ovis. If the MCQ options include "(d) All of the above," that is incorrect for H. bovis specifically.
 
 **Q23. Breakdown of sulphur-containing protein under high processing temperature of canned food causes:**
 **Answer: (d) Sulphiding**
@@ -394,7 +394,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Answer: (a) Putrefaction of the deep muscles around pelvic and femur**
 
 **Q67. Photophobia and photosensitization with thickened head and ears in sheep:**
-**Answer: (b) Contagious ecthyma** (also associated with blue tongue)
+**Answer: 📖 Rift Valley Fever (RVF)** — Course text (Abnormal Conditions, Viral Diseases): "Photophobia and photosensitization characterized with a thickened head and ears" is listed under **Rift Valley Fever**, not Contagious ecthyma or Bluetongue.
 
 **Q68. Condensation of water vapor on meat brought from cold store to room temperature:**
 **Answer: (c) Sweating**
@@ -486,7 +486,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 12. **Bottle jaw term describes submandibular edema in cattle affected with Mycobacterium bovis.** — **FALSE** (Bottle jaw is associated with Johne's disease caused by Mycobacterium paratuberculosis, not M. bovis)
 
-13. **According to FAO and WHO in 1980, irradiation with a dose more than 10 kGy should be accepted for preserving all categories of food.** — **TRUE**
+13. **According to FAO and WHO in 1980, irradiation with a dose more than 10 kGy should be accepted for preserving all categories of food.** — **FALSE** (Course text: FAO and WHO 1980 proposed that irradiation with a dose **less than** 10 kGy — not more than — should be accepted for preserving all major categories of food)
 
 14. **Brucella remains viable for only a short period in muscles after slaughter.** — **TRUE**
 
@@ -504,13 +504,13 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 21. **Springer is a type of chemical spoilage of canned meat in which one end is bulged and when pressed the opposite springs out.** — **FALSE** (Springer is a type of BACTERIOLOGICAL spoilage, not chemical)
 
-22. **Onchocerciasis affects connective tissue and typical nodules are found in the region of neck and abdomen.** — **TRUE**
+22. **Onchocerciasis affects connective tissue and typical nodules are found in the region of neck and abdomen.** — **FALSE** (Course text: "the typical nodules are found in the region of the **brisket or stifle joint**", NOT neck and abdomen)
 
 23. **The predilection sites of C. bovis are: esophagus muscle, small intestine, and spleen.** — **FALSE** (C. bovis predilection sites are: heart, masseter muscles, tongue, diaphragm, esophagus — NOT small intestine and spleen; those are for C. tenuicollis)
 
 24. **The preservative effect of drying is based on removing water necessary for growth of microorganisms.** — **TRUE**
 
-25. **Lumpy Jaw is a painful swelling of bovine maxilla and mandible caused by Actinobacillus lignieresii.** — **TRUE**
+25. **Lumpy Jaw is a painful swelling of bovine maxilla and mandible caused by Actinobacillus lignieresii.** — **FALSE** (Lumpy Jaw = Actinomycosis, caused by **Actinomyces bovis**. It is Actinobacillosis/Wooden Tongue that is caused by Actinobacillus lignieresii)
 
 26. **Training of people is not an important element in HACCP program.** — **FALSE** (Training IS an important element of HACCP)
 
@@ -518,7 +518,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 28. **Trichinoscope used for routine diagnosis of fish parasite infestation.** — **FALSE** (Trichinoscope is used for Trichinella in meat, NOT for fish parasites)
 
-29. **Tyzzer's disease in poultry is caused by Clostridium piliforme.** — **TRUE** (though it's actually in rabbits, not poultry)
+29. **Tyzzer's disease in poultry is caused by Clostridium piliforme.** — **FALSE** (Tyzzer's disease occurs in **rabbits**, not poultry; the causative agent is Clostridium piliforme but the host stated is wrong)
 
 30. **Tenuicollis tracks are the burrowing of Trichinella spiralis infestation.** — **FALSE** (Tenuicollis tracks are tracks of Cysticercus tenuicollis, NOT Trichinella spiralis)
 
@@ -542,7 +542,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 40. **Animals subjected to electrical stunning are rendered unconscious due to acidification of CSF upon inhalation of CO₂.** — **FALSE** (Electrical stunning renders animals unconscious through electrical current; CO₂ stunning causes acidification of CSF)
 
-41. **The superficial lymph nodes of beef carcass are lobulated and no characteristic medulla, cortex, and paracortex.** — **TRUE**
+41. **The superficial lymph nodes of beef carcass are lobulated and no characteristic medulla, cortex, and paracortex.** — **FALSE** (This describes **camel** superficial lymph nodes; bovine/beef lymph nodes are round or oval and have the normal medulla, cortex, and paracortex structure)
 
 42. **Rapid drop in muscle pH while carcass temperature is still high is so undesirable.** — **TRUE** (leads to PSE)
 
@@ -552,7 +552,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 45. **Animals that have been very stressed before slaughter may go into rigor sooner than normal.** — **TRUE**
 
-46. **After animal slaughter, about 30–50% of residual blood remains in the muscles.** — **TRUE**
+46. **After animal slaughter, about 30–50% of residual blood remains in the muscles.** — **FALSE** (Only **3–5%** of the total blood volume remains in the muscles; the remainder ~30–50% is largely retained in the **viscera**, not the muscles)
 
 47. **Carbohydrates percentage in typical adult mammalian muscle reaches 19%.** — **FALSE** (It reaches approximately 1.2%, not 19%)
 
@@ -602,7 +602,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Judgment:** T (Total condemnation) — affected carcasses burned and buried; contact animals get L (limited)
 
 ### Case 2: Listeriosis (Circling Disease)
-**Findings:** Sheep showing depression and disorientation, circling towards left side, facial paralysis. Terminally affected animals fall, unable to rise, lie on same side, may display involuntary running movements.
+**Findings:** Sheep showing depression and disorientation, circling towards the **affected side**, facial paralysis. Terminally affected animals fall, unable to rise, lie on same side, may display involuntary running movements.
 **Suspected disease:** Listeriosis (Circling disease)
 **Judgment:** T (Total condemnation)
 
@@ -611,10 +611,10 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Suspected disease:** Actinobacillosis
 **Judgment:** Active/acute: T. Not active/not acute (localized): D (remove affected parts), rest of carcass A.
 
-### Case 4: Foot and Mouth Disease (FMD)
-**Findings:** Sheep with lameness due to inflammation of coronary band, excessive salivation, cyanosis of tongue and mucus membranes with erosion and sloughing of oral mucosa.
-**Suspected disease:** Foot and Mouth Disease (FMD)
-**Judgment:** T (Total condemnation in sheep; in cattle: Kh — conditional with heat treatment, but varies by country)
+### Case 4: Bluetongue (BT)
+**Findings:** Sheep with lameness due to inflammation of coronary band, excessive salivation, cyanosis of tongue and mucous membranes with erosion and sloughing of oral mucosa.
+**Suspected disease:** 📖 **Bluetongue** — Course text (Bluetongue ante-mortem findings): "Cyanosis of the tongue and mucous membranes (bluetongue) with erosion and sloughing of the oral mucosa… Lameness associated with sore feet caused by the inflammation of the coronary band." This description matches Bluetongue, NOT FMD (FMD causes vesicles, not cyanosis of the tongue).
+**Judgment:** T (Total condemnation)
 
 ### Case 5: Tetanus
 **Findings:** Young bull with congestion of mucous membranes, erected ears, prolapse of third eyelid, stiffness of masseter muscles, stiff stilted gait, and convulsions.
@@ -643,9 +643,9 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Suspected disease:** Caseous Lymphadenitis (Corynebacterium pseudotuberculosis)
 **Judgment:** Localized: D (remove affected parts); Generalized: T
 
-### Case 5: Malignant Catarrhal Fever / Necrotic Stomatitis
+### Case 5: Foot and Mouth Disease (FMD)
 **Findings:** Calf carcass showing necrosis of heart muscle (Tiger heart), ulcerative lesions on tongue, palate, gum, pillars of rumen, and feet.
-**Suspected disease:** Malignant Catarrhal Fever or Necrotic stomatitis/Calves
+**Suspected disease:** 📖 **Foot and Mouth Disease (FMD)** — Course text (FMD post-mortem findings): "Necrosis of heart muscle (tiger heart), usually only in young acutely infected animals. Ulcerative lesions on tongue, palate, gums, pillars of the rumen and feet." This is verbatim FMD, NOT MCF. MCF post-mortem shows crater-like erosions, white areas in kidneys, and tiger striping in the distal colon — no tiger heart.
 **Judgment:** T (Total condemnation)
 
 ---
@@ -692,11 +692,11 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 5. Orchiepididymitis
 
 ### 6. Forms of Generalized Tuberculosis
-1. **Miliary TB** — numerous small tubercles disseminated throughout the body
-2. **Chronic generalized TB** — caseous lesions in multiple organs and lymph nodes
-3. **Acute generalized TB** — widespread active infection
-4. **Definite organized TB** — well-encapsulated caseous lesions
-5. **Galloping TB** — rapidly progressive form
+1. **Miliary tuberculosis** of lung with evidence of tuberculosis elsewhere
+2. **Widespread tuberculosis** infection of carcass lymph nodes
+3. **Diffuse acute tuberculous lesions** of both pleura and peritoneum associated with enlarged or tuberculous carcass lymph nodes
+4. **Tuberculous lesions** in the respiratory and digestive tracts **plus** active or recent lesions in the substance of any **two** of the following: spleen, kidneys, udder, uterus, ovary, testicle, brain and spinal cord or their membranes
+5. **Congenital tuberculosis** in calf liver and spleen
 
 ### 7. Advantages of Quick (Rapid) Freezing
 1. Microscopic ice crystals formed
@@ -776,20 +776,20 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 4. Carcasses are dressed on the line dressing system
 
 ### 17. Cases Requiring Emergency Slaughter
-1. Traumatic injuries (fractures, accidents)
-2. Abortion
-3. Drug treatment
-4. Stress
-5. Immaturity
-6. Calving complications
+1. Fractures of the limbs or pelvis
+2. Traumatic injuries
+3. Electricity or lightning struck
+4. Acute respiratory distress
+5. Prolonged recumbence (e.g. Milk fever)
+6. Prolapsed uterus and other affections of the uterus and udder
 
 ### 18. Defects in Salted Meat Products
-1. Rancidity
-2. Offensive odor
-3. Slime formation
-4. Oxidative deterioration
-5. Discoloration
-6. Mold growth
+1. Dampness (due to insufficient salting)
+2. Rancidity (due to oxidation of fat)
+3. Reddening (due to activities of aerobic halophilic microbes)
+4. Discoloration
+5. Over-storage spoilage
+6. Parasitic infestation
 
 ### 19. Drawbacks of Stunning
 1. Blood splashing (especially with electrical stunning)
@@ -1063,7 +1063,7 @@ Marbling is the distribution and amount of intramuscular fat (IMF) within the le
 | BSE | T |
 | Scrapie | T (affected); L (contact) |
 | Sheep pox | A, Kh, or T (depending on severity) |
-| FMD | T (sheep); Kh (cattle in some countries) |
+| FMD | T (in FMD-free countries); Kh (in FMD-endemic countries, if no fever, after condemning affected parts) |
 | Tetanus | T |
 | Listeriosis | T |
 | Actinobacillosis (active) | T |
