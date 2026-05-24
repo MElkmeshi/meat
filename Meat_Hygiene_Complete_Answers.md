@@ -800,15 +800,13 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 6. Religious concerns (some methods may kill the animal)
 
 ### 20. Definition and Classification of Carcass Lymph Nodes with Examples
-**Definition:** Lymph nodes are small, bean-shaped organs that filter lymph from a specific drainage area before it returns to the bloodstream. They are the first line of defense against infection.
+**Definition:** Carcass lymph nodes are those which remain on or in the carcass after dressing (i.e., all lymph nodes of the body except those of the head and those removed with the thoracic and abdominal organs during evisceration).
 
-**Classification:**
-1. **Superficial lymph nodes** — located near the body surface
-   - Examples: Prescapular, precrural, superficial inguinal, popliteal
-2. **Deep (visceral) lymph nodes** — located within body cavities
-   - Examples: Mediastinal, mesenteric, hepatic, renal
-
-**Meat lymph nodes** receive lymph from both organs and muscles.
+**Classification:** Carcass lymph nodes may drain:
+1. **Exclusively muscle** → "Meat lymph nodes" — e.g., popliteal, axillary, prescapular L.N.
+2. **Exclusively organs** — e.g., renal L.N.
+3. **Both organs and muscles** — e.g., iliac, ischiatic, lumbar L.N.
+4. **Exclusively skin** — e.g., precrural L.N.
 
 ### 21. Specific Affections of Bovine Lymph Nodes
 1. **Tuberculosis** — caseous calcified lesions
