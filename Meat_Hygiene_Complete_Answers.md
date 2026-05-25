@@ -9,7 +9,7 @@
 ---
 
 ### 1. Freezer Burn
-Evaporation of moisture from the surface of frozen meat causes an unattractive bleached, light brown to grayish appearing meat. The surface becomes dry and porous. It is particularly seen in liver, kidneys where the cut surface becomes soft, grayish or yellowish. It can be avoided by wrapping the chicken meat into stockinet and approved plastic bags.
+Evaporation of moisture from the surface of frozen meat causes an unattractive bleached, light-brown to grayish appearance, affecting the palatability. It is particularly seen in liver and kidneys, where the surface of the organ becomes soft and spongy with grayish or yellowish discoloration; it is also recorded in frozen poultry. It can be avoided by wrapping the meat in stockinet and approved plastic bags.
 
 ### 2. MAP (Modified Atmosphere Packaging)
 MAP is changing the atmosphere of a package by evacuating and back-flushing with gas during packaging and sealing. Gases used include nitrogen (N₂), carbon dioxide (CO₂), and oxygen (O₂).
@@ -21,10 +21,10 @@ A non-infectious, localized, bulbous lesion of the ball of the foot, commonly se
 Brine staining is caused by contamination of meat by either brine or calcium chloride solutions which may be used in freezing. It appears as **dull or pale greenish discoloration** on the surface of frozen carcass; meat is bitter in taste. The contamination results from leakage or fault in articulation in the circulating system.
 
 ### 5. Hydrogen Swell
-A type of chemical spoilage of canned meat in which hydrogen gas is produced due to the reaction of the acid content of the food with the iron of the can. This causes one or both ends of the can to swell.
+A type of chemical spoilage of canned food in which hydrogen gas forms following internal corrosion of the can. Scratches on the inner tin coating expose small areas of iron, and when the contained food is acidic, the acid acts on both the tin and iron, producing an electric couple that liberates free hydrogen (H₂) and causes blowing of the can. It is usually recorded in canned sardines and fruits.
 
 ### 6. Yellow Grub
-A parasite (Clinostomum sp.) found in fish, appearing as yellowish grub-like cysts in the flesh and organs of freshwater fish. It is a fish parasite of public health importance.
+A trematode parasite (Clinostomum spp.) that uses fish as an intermediate host. The yellow cysts (larval worms) are found in the flesh and under the skin of freshwater fish, remaining there until the fish is eaten by a bird to complete the life cycle. It is one of the common fish parasites that are **not transmitted to humans**.
 
 ### 7. HACCP (Hazard Analysis Critical Control Point)
 A systematic preventive approach to food safety that identifies physical, chemical, and biological hazards in production processes that can cause the finished product to be unsafe, and designs measurements to reduce these risks to a safe level. Developed by Pillsbury Company in **1959** to assure safe food for NASA astronauts during space travel. It consists of 7 principles: (1) Hazard analysis, (2) Critical Control Points, (3) Critical limits, (4) Monitoring procedures, (5) Corrective actions, (6) Verification procedures, (7) Record-keeping and documentation procedures.
@@ -36,10 +36,10 @@ A step in the process at which control can be applied and is essential to preven
 Accumulation of excess fluid in the body cavity, most often associated with disease of the viscera especially liver, and with tumours. The fluid may show a green colour. Putrefaction (green colour first seen around the vent) rapidly ensues. Judgment: T (total condemnation).
 
 ### 10. Aspergillosis in Poultry
-An Aspergillus fumigatus infection caused by inhalation of spores of the fungus, widely distributed in nature (hay, straw, litter). Young birds show white to yellow caseous nodules lining lungs and air sacs. Adult birds show large yellow masses in air sacs which may be lined by greenish-black, fur-like growth of mould. Judgment: T.
+An Aspergillus fumigatus infection caused by inhalation of spores of the fungus, widely distributed in nature (hay, straw, litter). In young birds, lesions consist of greyish-white or yellow caseous nodules in the lungs, air sacs and body cavity, varying in size from a pinhead up to a small pea. In adult birds, the lesions are large, firm, decaying yellow masses in the air sacs, which may be lined by a greenish-black, fur-like growth of mould. Judgment: T.
 
 ### 11. Water Holding Capacity (WHC)
-WHC is the ability of meat to retain its own water during the application of any force (cutting, heating, grinding, pressing). It is the lowest at the isoelectric point (pH ~5.0–5.1) where the number of positively and negatively charged groups of the myofibrillar proteins is equal.
+WHC is the ability of meat to retain its own water during the application of any force (cutting, heating, grinding, pressing). It is the lowest at the isoelectric point (pH = 5.0 to 5.2) where the number of positively and negatively charged groups of the myofibrillar proteins is equal.
 
 ### 12. Marbling
 Marbling is the intramuscular fat deposited between muscle fiber bundles, visible as white flecks or streaks within the lean meat. Marbling grading is carried out by visual comparison of the exposed ribeye muscle at either the 10th/11th or 12th/13th rib.
@@ -75,13 +75,13 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 **Q8.** The factors that affect the carcass yield include: **species, breed, age, sex, and live weight**.
 
-**Q9.** Lymph nodes of bovine lung are: **left tracheobronchial (bronchial), right tracheobronchial (bronchial), and mediastinal lymph nodes**.
+**Q9.** Lymph nodes of bovine lung are: **left bronchial, right bronchial, middle bronchial, mediastinal (anterior and posterior), apical, and Inspector's (Reissman) lymph nodes**.
 
 **Q10.** An inadequate rest period may reduce the keeping quality of meat due to **incomplete development of acidity** and **incomplete bleeding** and those are because of the depletion of **glycogen**.
 
-**Q11.** One of the main objectives of meat processors is to convert **myosin** to the **actomyosin** complex in meat and meat products.
+**Q11.** One of the main objectives of meat processors is to convert **actin and myosin** to the **actomyosin** complex in meat and meat products.
 
-**Q12.** WHC is the **lowest** at the **isoelectric point (pH ~5.0–5.1)**, where the number of positively and negatively charged groups of the myofibrillar proteins is **equal**.
+**Q12.** WHC is the **lowest** at the **isoelectric point (pH = 5.0 to 5.2)**, where the number of positively and negatively charged groups of the myofibrillar proteins is **equal**.
 
 **Q13.** Drainage area **is the region/territory** that is **drained** into lymph node.
 
@@ -93,7 +93,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 **Q17.** Marbling grading is carried out by visual comparison of the exposed **ribeye (longissimus dorsi) muscle** at either the 10th/11th or 12th/13th rib.
 
-**Q18.** Prescapular lymph node drains **the skin and muscles of the shoulder region, neck, and forelimb**.
+**Q18.** Prescapular lymph node drains **the head, neck, shoulder, and forelimb**.
 
 **Q19.** WHC is lowest at the **isoelectric point** where the number of positively and negatively charged groups of the myofibrillar proteins is equal.
 
@@ -105,7 +105,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 **Q23.** Aspergillosis in poultry is caused by **Aspergillus fumigatus** (inhalation of spores).
 
-**Q24.** Stargazing (opisthotonos) in goat during AM inspection indicates **tetanus**.
+**Q24.** Stargazing (opisthotonos) in goat during AM inspection indicates **encephalitis with micro-abscessation of the brainstem (e.g., listeriosis)**.
 
 **Q25.** Control of loss of bloom mainly depends on preventing the **fluctuation of temperature** with **good air circulation** and **right relative humidity**.
 
@@ -139,7 +139,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 **Q40.** Breast blisters are **injury caused by pressure** while resting on the **breast bone**. A **false bursa** develops that contains **serous fluid** and **may become infected**.
 
-**Q41.** Freezer burn is particularly seen in liver, kidneys where the **cut** surface of the **organ** becomes soft, **pale** with grayish or yellowish **discoloration**. It is also recorded in frozen poultry.
+**Q41.** Freezer burn is particularly seen in liver, kidneys where the **surface** of the **organ** becomes soft, **spongy** with grayish or yellowish **discoloration**. It is also recorded in frozen poultry.
 
 **Q42.** CCP is a **step** in the process where control can be applied to **prevent** hazardous result in **unacceptable health risk**.
 
@@ -163,7 +163,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 **Q52.** The last portion of the large intestine and rectum are hemorrhagic showing "tiger stripping" of longitudinal folds caused by **Rinderpest (Morbilli virus)**. Course text lists this finding explicitly under Rinderpest post-mortem findings. (MCF also shows "tiger striping" but in the distal colon as petechial hemorrhage, while the specific description of the last portion of large intestine and rectum with tiger stripping of longitudinal folds belongs to Rinderpest.)
 
-**Q53.** Lymph nodes that are absent in camel carcasses include **superficial cervical, axillary, pectoral, and popliteal** lymph nodes.
+**Q53.** Lymph nodes that are absent in camel carcasses include **precrural, deep inguinal, sternal, ventral mediastinal, dorsal apical, medial sacral, lateral iliac, medial retropharyngeal, and hemolymph nodes**.
 
 **Q54.** When the toxic dinoflagellates of genus Gonyaulax catenella bloom it is referred to as **red tide** by **dinoflagellates**.
 
@@ -175,7 +175,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 **Q58.** The botulinum toxin of type E Clostridium botulinum is heat **labile (destroyed by heat)** meanwhile the enterotoxin of Staphylococcus aureus is heat **stable (resistant to heat)**.
 
-**Q59.** To control BSE in endemic countries, cattle up to **30** months of age provided they have tested negative for BSE are approved for human consumption.
+**Q59.** To control BSE in endemic countries, cattle up to **42** months of age provided they have tested negative for BSE are approved for human consumption.
 
 **Q60.** Critical limit determines if CCP is **in** or **out** of control.
 
@@ -280,7 +280,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Answer: (d) All of the above** (Kuru/CJD/nvCJD in humans, Scrapie in sheep, TME)
 
 **Q29. Using organic acids as decontaminant for carcass surface:**
-**Answer: (c) More than 5%** (commonly used at 1–3% or 2–5% depending on reference)
+**Answer: 📖 1–3%** — Course text (Slaughterhouse ch., line 301): *"Organic acids (1–3%) are generally without effect on desirable sensory properties..."*
 
 **Q30. The color of meat is primarily dependent on:**
 **Answer: (b) Myoglobin chemical state and concentration**
@@ -324,13 +324,13 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 **Q43. A proteinase responsible for proteolytic changes in post-mortem muscle:**
 **Answer: (b) Calpains**
 
-**Q43. Anthracosis (black pigmentation in lungs and lymph nodes) is caused by:**
+**Q44. Anthracosis (black pigmentation in lungs and lymph nodes) is caused by:**
 **Answer: 📖 (c) Accumulation of carbon particles** — Course text (Abnormal Conditions): "Anthracosis, a black pigmentation that can be seen in lungs and corresponding lymph nodes of animals raised in urban areas, is caused by accumulation of carbon particles."
 
 **Q45. The proteins of muscle responsible for binding ~75% of water in muscle tissue:**
 **Answer: (a) Myofibrillar**
 
-**Q14. Characteristics of alkaline rigor:**
+**Q46. Characteristics of alkaline rigor:**
 **Answer: 📖 (a) Rapid onset of rigor** ⚠️ — Course text (Conversion of Muscle to Meat) states: "If all the glycogen is depleted before slaughter the muscle will not acidify at all and rigor will occur very rapidly in this relatively alkaline state. This is therefore known as alkaline rigor. Characteristic of alkaline rigor: 1 - Rapid onset of stiffening, 2 - Marked muscle shortening." So the answer is **(a) Rapid onset of rigor** with **marked muscle shortening**. The course lists "Rapid onset" as characteristic, NOT "slowly onset."
 
 **Q47. Hydroxyproline (tenderness indicator) measures the percentage of meat protein found in:**
@@ -506,7 +506,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 22. **Onchocerciasis affects connective tissue and typical nodules are found in the region of neck and abdomen.** — **FALSE** (Course text: "the typical nodules are found in the region of the **brisket or stifle joint**", NOT neck and abdomen)
 
-23. **The predilection sites of C. bovis are: esophagus muscle, small intestine, and spleen.** — **FALSE** (C. bovis predilection sites are: heart, masseter muscles, tongue, diaphragm, esophagus — NOT small intestine and spleen; those are for C. tenuicollis)
+23. **The predilection sites of C. bovis are: esophagus muscle, small intestine, and spleen.** — **FALSE** (C. bovis predilection sites are: **masseter muscles, tongue, heart, and diaphragm** — NOT esophagus, small intestine, or spleen)
 
 24. **The preservative effect of drying is based on removing water necessary for growth of microorganisms.** — **TRUE**
 
@@ -572,7 +572,7 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 55. **Sexual odor can be overcome by castration of boar and buck 3 months before slaughter.** — **TRUE**
 
-56. **Nearly two thirds of blood remain in tissues and organs of the slaughtered animal and known as residual blood.** — **TRUE**
+56. **Nearly two thirds of blood remain in tissues and organs of the slaughtered animal and known as residual blood.** — **FALSE** (Course text, bleeding lecture: about **two thirds (50–70%) of total blood volume is LOST during bleeding**; only about **one third** is retained as residual blood, largely in the viscera, with only 3–5% remaining in the muscles)
 
 57. **Multifocal deposits of melanin in liver of calves usually disappear after the first month of age.** — **FALSE** (They disappear after the first YEAR of age, not month)
 
@@ -736,15 +736,19 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 11. Mold formation
 
 ### 11. Prerequisite Programs for HACCP
-1. Supplier approval management
-2. Pest control system
-3. Hygiene regulation training
-4. Cleaning and disinfection system
-5. Waste management
-6. Pre-planned maintenance
-7. Hygienic premises design
-8. Product flow diagram
-9. Verification flow diagram
+1. Supplier Approval Management
+2. Pest Control Systems
+3. Hygiene Regulations & Training
+4. Cleaning & Disinfection Systems
+5. Waste Management
+6. Pre-planned Maintenance
+7. Hygienic Premises Design
+8. Effective Temperature and Storage Controls
+9. HACCP Team Assembly
+10. Products description, ingredient list, distribution
+11. Intended use and consumer of food
+12. Product flow diagram
+13. Verify flow diagram
 
 ### 12. Lesions Found in Ovine Lymph Nodes
 1. Lymphadenitis
@@ -840,11 +844,10 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 7. Anemia and icterus may be present
 
 ### 25. Factors Affecting the Efficiency of Bleeding
-1. **Type of stunning** — electrical stunning gives better bleeding
-2. **Size and position of the sticking wound**
-3. **Time interval between stunning and sticking**
-4. **Health and physiological state of the animal**
-5. **Method of slaughter** (Halal, Kosher, etc.)
+1. **Animal health** — healthy animals bleed well; sick animals do not
+2. **Method of slaughter** — including conscious/unconscious state; Islamic (Halal) method considered best for efficient bleeding
+3. **Pre-slaughter rest** — resting at ante-mortem care has a great effect on complete bleeding
+4. **Sex, species, and weight of the animal** — amount of blood lost during bleeding is about 1/12 to 1/13 of the animal's weight
 
 ### 26. Recommended Disinfectants for Slaughterhouses
 1. Chlorine compounds (sodium hypochlorite)
@@ -883,35 +886,35 @@ Breakdown of sulphur-containing proteins under the effect of high processing tem
 
 | Worm | Infective Stage | Intermediate Hosts | Site of Larval Stage | Judgment |
 |------|------|------|------|------|
-| **Taenia saginata** | Cysticercus bovis | Cattle | Heart, masseter, tongue, diaphragm, esophagus muscles | Light: treatment (boiling 3–5h, freezing -10°C/10 days, pickling in 25% brine 3–4 weeks); Heavy: T |
+| **Taenia saginata** | Cysticercus bovis | Cattle | Masseter, tongue, heart, diaphragm | Light: treatment (boiling 3–5h, freezing -10°C/10 days, pickling in 25% brine 3–4 weeks); Heavy: T |
 | **Taenia solium** | Cysticercus cellulosae | Pigs and humans | Muscles, brain, heart, eyes | T (total condemnation) |
 | **Diphyllobothrium latum** | Plerocercoid (sparganum) | Fish (freshwater) | Muscles and organs of fish | Remove affected parts; heat treatment if light |
 
 ### D. Predilection Sites and Meat Inspection Procedures for Cysticercus bovis
 
-**1. Predilection sites:**
-- Heart (most common)
-- Masseter muscles (jaw muscles)
+**1. Predilection sites (per course):**
+- Masseter muscles
 - Tongue
+- Heart
 - Diaphragm
-- Esophagus
-- Shoulder muscles
-- Achilles tendon
-- Intercostal muscles
 
-**2. Meat inspection procedures:**
-- Visual inspection of carcass
-- Palpation of predilection sites
-- Incision of heart, masseter muscles, tongue, diaphragm
-- Examination of esophagus
-- Systematic examination of lymph nodes
+**2. Routine post-mortem examination:**
+- Tongue: examined visually, by palpation and incision
+- External (two) and internal (one) masseter muscles: incised and examined
+- Heart: after opening the pericardium, examined visually then incised with 3–4 cuts across the wall of the left ventricle, plus an incision through the interventricular septum to inspect the interior
 
-**3. Thorough (further) procedure:**
-- Additional incisions into muscles of the shoulder, neck, and tongue
-- Multiple incisions into the heart
-- Examination of the Achilles tendon
-- If found light: treatment (boiling, freezing, or pickling)
-- If found heavy: total condemnation
+**3. Further post-mortem examination (when C. bovis is found):**
+- Triceps brachii: deep transverse cut into each shoulder ~5 cm above the elbow, with 3 further incisions inside the original
+- Gluteal region: single deep longitudinal incision parallel to vertebral column on both sides, with several further incisions inside
+- Diaphragm: examined visually and by incision
+- Gracilis muscle: two incisions in each thigh
+- Esophagus: separated from the trachea and examined
+- Exposed muscular surfaces of the split carcass
+- Visceral examination (incised if necessary)
+
+**Judgment:**
+- Heavy infestation (>1 live/dead cyst in a palm-sized area in different cuts, or >10 cysts in whole carcass): **T (total condemnation)**
+- Light/moderate infestation: conditionally pass (K), treated by **boiling 3–5 h** (inner temp 70°C; cyst dies at 58°C), **freezing at -10°C for 10 days** (inner temp -3°C for 24 h), or **pickling/salting in 25% brine for 3–4 weeks**, or steaming under pressure in an autoclave for 1 hour
 
 ---
 
@@ -1006,7 +1009,7 @@ The HACCP system is a preventive approach to food safety that identifies specifi
 Marbling is the distribution and amount of intramuscular fat (IMF) within the lean meat, visible as white flecks or streaks between muscle fiber bundles. It is the primary determinant of beef quality grades. Marbling grading is carried out by visual comparison of the exposed ribeye muscle at either the 10th/11th or 12th/13th rib. Higher marbling generally means better tenderness, juiciness, and flavor.
 
 ### 8. Water Holding Capacity (WHC) and Low WHC
-**WHC** is the ability of meat to retain its own water during application of any force. It is lowest at the isoelectric point (pH ~5.0–5.1) where the number of positively and negatively charged groups of myofibrillar proteins is equal.
+**WHC** is the ability of meat to retain its own water during application of any force. It is lowest at the isoelectric point (pH = 5.0 to 5.2) where the number of positively and negatively charged groups of myofibrillar proteins is equal.
 
 **Low WHC** leads to:
 - Excessive exudate (drip loss)
@@ -1015,11 +1018,11 @@ Marbling is the distribution and amount of intramuscular fat (IMF) within the le
 - Poor processing quality (less suitable for curing, sausage making)
 
 ### 9. Physical Carcass Decontamination Treatments
-1. Hot water washing/rinsing
-2. Steam pasteurization
-3. Trimming of contaminated surfaces
-4. UV irradiation
-5. Knife trimming
+1. **Water and steam** — hot water or steam (105°C), then followed by ultrasound or air chilling
+2. **Irradiation** — gamma rays (1–3 kGy) and X-rays; primarily "cold pasteurization"
+3. **Chilling** — air chilling of red meat carcasses; antibacterial activity based on surface desiccation achieved by high air velocity
+4. **Ultraviolet light** — commonly used in the food industry for decontamination of packaging material or water
+5. **Steam vacuuming** — applied to relatively small areas; suited for use on red meat carcasses
 
 ---
 
@@ -1039,8 +1042,8 @@ Marbling is the distribution and amount of intramuscular fat (IMF) within the le
 | **Texture** | Soft | Firm |
 | **Drip** | Excessive | Dry (little drip) |
 | **WHC** | Low | High |
-| **Shelf life** | Short (good for bacterial growth not favored) | Short (high pH favors bacterial growth) |
-| **Treatment** | Rapid chilling, reduce stress | Reduce chronic stress, proper handling |
+| **Shelf life** | Normal/acceptable (low pH inhibits bacterial growth) | Short (high pH favors bacterial growth — "very prone to spoilage") |
+| **Prevention** | Rapid chilling, reduce acute stress | Reduce chronic stress, proper handling |
 
 ### Key Ante-mortem Inspection Decisions
 
